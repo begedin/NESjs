@@ -1,0 +1,19 @@
+{
+  "name": "NESjs",
+  "version": "0.0.1",
+  "description": "NES emulator in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NESjs"
+  },
+  "keywords": [
+    "NES",
+    "emulator"
+  ],
+  "author": "Nikola Begedin",
+  "license": "BSD-2-Clause"
+}
